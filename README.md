@@ -1,7 +1,7 @@
 
 # **Swiggy Case Study using SQL**
 
-This project delves into the world of Swiggy, a leadingIndian food delivery platform, using the power of SQL.We'll be exploring a simulated Swiggy database containinginformation on users, restaurants, orders, and more. Bycrafting SQL queries, we'll unlock valuable insights aboutSwiggy's operations. We'll uncover trends, identify topperformers, and gain a deeper understanding of customerbehavior. This case study aims to demonstrate theeffectiveness of SQL in analyzing real-world data andextracting knowledge to inform strategic decision-makingfor businesses like Swiggy.
+This project delves into the world of Swiggy, a leadingIndian food delivery platform, using the power of SQL.We'll be exploring a simulated Swiggy database containinginformation on users, restaurants, orders, and more. By crafting SQL queries, we'have unlocked valuable insights about Swiggy's operations. We'll uncover trends, identify topperformers, and gain a deeper understanding of customerbehavior. This case study aims to demonstrate theeffectiveness of SQL in analyzing real-world data andextracting knowledge to inform strategic decision-makingfor businesses like Swiggy.
 
 ### **TABLES**
 - users
